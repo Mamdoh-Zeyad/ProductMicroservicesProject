@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using ProductMicroservicesProject.Models;
 using ProductMicroservicesProject.Repository;
 
+
+//This comment for demo
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
